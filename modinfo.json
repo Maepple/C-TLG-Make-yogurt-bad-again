@@ -4,7 +4,7 @@
         "id": "make_yogurt_bad_again",
         "name": "Make yogurt bad again",
         "authors": [ "Maepple" ],
-        "description": "Stops yogurt and pudding spoil again.",
+        "description": "Makes yogurt and pudding spoil again.",
         "category": "rebalance",
         "dependencies": [ "tlg" ]
     },
